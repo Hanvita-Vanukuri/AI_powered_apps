@@ -16,7 +16,7 @@ import os
 # Gemini API Configuration
 # ==============================
 client = genai.Client(
-    api_key="AIzaSyCmO_WfjskkS1D4PlgkRRDK_k0SbIL5N_w" ## place your API key
+    api_key="## place your API key"
 )
 
 # ==============================
